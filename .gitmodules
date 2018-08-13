@@ -1,0 +1,6 @@
+[submodule "teachbase_metrix_collector"]
+	path = teachbase_metrix_collector
+	url = git@github.com:MikeYu123/teachbase_metrix_collector.git
+[submodule "teachbase_metrix_sample_app"]
+	path = teachbase_metrix_sample_app
+	url = git@github.com:MikeYu123/teachbase_metrix_sample_app.git
